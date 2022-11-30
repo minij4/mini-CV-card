@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding-top: 100px;
+  background-color: #23252C;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Inter';
+}
+
+.container {
+  background-color: #1A1B21;
+  width: 300px;
+  border-radius: 10px 10px 10px 10px;
+
+}
+.info {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+
+}
+.info .me {
+  width: 100%;
+  border-radius: 10px 10px 0px 0px;
+
+  background-color: antiquewhite;
+}
+
+.info-text {
+  text-align: center;
+  line-height: 5px;}
+
+.info-name {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  color: white;
+}
+.info-role {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12.8px;
+  color: #F3BF99;
+}
+
+.info-site {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 10.24px;
+  color: #F5F5F5;
+}
+.info-social {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  gap: 15px;
+  margin-top: 20px;
+}
+.info-social img {
+  width: 15px;
+}
+.info-social a {
+  padding: 5px;
+  width: 30%;
+  text-decoration: none;
+  color: black;
+  background-color: white;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.social-linkedin {
+  background-color: #5093E2 !important;
+  color: white !important;
+}
+.wrap {
+  margin-left: 45px;
+}
+.title {
+  margin-top:20px;
+  margin-bottom: 5px;
+  font-weight: 700;
+  font-size: 16px;
+  color: #F5F5F5;
+}
+
+.paragraph {
+  font-weight: 400;
+  font-size: 10.24px;
+  color: #DCDCDC;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  background: #161619;
+  height: 64px;
+  border-radius: 0px 0px 10px 10px;
+}
+
