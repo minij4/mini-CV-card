@@ -15,3 +15,6 @@ and the server will start with this front-end project.
 Project is created with:
 * React.js
 
+## How it looks
+<hr>
+<img src="pr.png" />
